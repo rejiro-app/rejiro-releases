@@ -5,7 +5,7 @@ Re:JIROの公式配布用リポジトリです。
 
 ## ダウンロード
 
-[最新リリース](https://github.com/rejiro-app/rejiro-releases/releases/latest)から `ReJIRO.exe` を入手してください。
+[最新リリース](https://github.com/rejiro-app/rejiro-releases/releases/latest)から `ReJIRO-v1.3.0-windows.zip` を入手し、展開したフォルダー内の `ReJIRO.exe` を起動してください。
 利用前に [利用規約](TERMS.md) をご確認ください。
 
 ## Re:JIROについて
@@ -24,4 +24,5 @@ Re:JIROの公式配布用リポジトリです。
 ※推奨環境は未検証です。あくまで快適に動作できるだろうという目安だとご判断ください。
 
 Re:JIROの開発には、Codexなどの生成AIを活用しています。
+
 
