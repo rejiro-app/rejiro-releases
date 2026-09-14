@@ -1,0 +1,5 @@
+# Public repository allowlist: release binaries are uploaded only as Release assets.
+/*
+!/.gitignore
+!/README.md
+!/TERMS.md
