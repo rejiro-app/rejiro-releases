@@ -6,6 +6,7 @@ Re:JIROの公式配布用リポジトリです。
 ## ダウンロード
 
 [最新リリース](https://github.com/rejiro-app/rejiro-releases/releases/latest)から `ReJIRO-v1.5.1-windows.zip` を入手し、展開したフォルダー内の `ReJIRO.exe` を起動してください。
+ZIPには「BAD ACCESS (FROM A MOE MAID)」の譜面とOGG音源を同梱しています。
 利用前に [利用規約](TERMS.md) をご確認ください。
 
 ## 更新履歴
