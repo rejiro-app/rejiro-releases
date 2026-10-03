@@ -5,11 +5,13 @@ Re:JIROの公式配布用リポジトリです。
 
 ## ダウンロード
 
-[最新リリース](https://github.com/rejiro-app/rejiro-releases/releases/latest)から `ReJIRO-v1.7.0-windows.zip` を入手し、展開したフォルダー内の `ReJIRO.exe` を起動してください。
+[最新リリース](https://github.com/rejiro-app/rejiro-releases/releases/latest)から `ReJIRO-v1.7.1-windows.zip` を入手し、展開したフォルダー内の `ReJIRO.exe` を起動してください。
 ZIPには「BAD ACCESS (FROM A MOE MAID)」の譜面・OGG音源・ジャケットを同梱しています。
 利用前に [利用規約](TERMS.md) をご確認ください。
 
 ## 更新履歴
+
+- [1.7.1の更新内容](https://github.com/rejiro-app/rejiro-releases/releases/tag/v1.7.1)
 
 - [1.7の更新内容](https://github.com/rejiro-app/rejiro-releases/releases/tag/v1.7.0)
 - [1.6の更新内容](https://github.com/rejiro-app/rejiro-releases/releases/tag/v1.6.0)
@@ -23,6 +25,8 @@ ZIPには「BAD ACCESS (FROM A MOE MAID)」の譜面・OGG音源・ジャケッ�
 ## 譜面制作ガイド
 
 [拡張ヘッダー・命令一覧](拡張ヘッダー・命令一覧.md) — TJAのヘッダー・命令の書式と使用例を確認できます。
+
+[Re:JIRO専用コース・段位ファイル（RJC）の仕様](ReJIRO先行コース・段位ファイル仕様.md) — 保存・配布方法、曲ごとの条件の書き方を確認できます。
 
 ## Re:JIROについて
 
