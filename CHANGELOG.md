@@ -6,6 +6,7 @@
 
 ## 目次
 
+- [Re:JIRO 1.9.2](#v1-9-2)
 - [Re:JIRO 1.9.1](#v1-9-1)
 - [Re:JIRO 1.9](#v1-9-0)
 - [Re:JIRO 1.8](#v1-8-0)
@@ -21,6 +22,24 @@
 - [Re:JIRO 1.3.1](#v1-3-1)
 - [Re:JIRO 1.3.0](#v1-3-0)
 - [1.2.1以前](#legacy-history)
+
+<a id="v1-9-2"></a>
+
+## Re:JIRO 1.9.2
+
+公開日：2026-10-12
+
+1.9.1で発生した、Windows版の終了時エラーを修正しました。
+
+- アプリを閉じた際の「A JavaScript error occurred in the main process」「TypeError: Object has been destroyed」を修正しました。
+- 破棄後のウインドウから参照を取得せず、保留中の再描画とイベント購読を解除するようにしました。
+- 設定・成績・履歴・譜面・SE、テーマやランクの基準は変更していません。
+
+更新はアプリを終了してから行い、起動用の`ReJIRO.exe`・`app`・`docs`を更新してください。既存の`data`・`song`・`snd`は削除しないでください。
+
+この更新は終了時エラーへの修正であり、以前報告された白飛びそのものの解消を保証するものではありません。[当時のパッチノート](https://github.com/rejiro-app/rejiro-releases/blob/v1.9.2/PATCH-NOTES.md)と[詳細](https://github.com/rejiro-app/rejiro-releases/blob/v1.9.2/changes-1.9.2-details.md)をご覧ください。
+
+---
 
 <a id="v1-9-1"></a>
 
