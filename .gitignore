@@ -13,6 +13,8 @@
 !/changes-1.9.1-details.md
 !/changes-1.9.2-details.md
 !/changes-2.0.md
+!/changes-2.0.1.md
+!/rank-achievement.md
 !/backup-restore.md
 !/updates.md
 !/network-privacy.md
@@ -21,6 +23,11 @@
 /licenses/*
 !/licenses/pixi-LICENSE.txt
 !/licenses/pixi-NOTICE.md
+!/licenses/regl-LICENSE.txt
+!/licenses/potpack-LICENSE.txt
+!/licenses/fflate-LICENSE.txt
+!/licenses/tanstack-virtual-LICENSE.txt
+!/licenses/fastdom-LICENSE.txt
 !/licenses/smol-toml-LICENSE.txt
 !/licenses/soundtouch-LICENSE.txt
 !/licenses/soundtouch-NOTICE.md

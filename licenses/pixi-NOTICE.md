@@ -6,5 +6,5 @@
 - License: MIT, included as `LICENSE`
 - SHA256: `3FF1AB2335D7150758146FC9429888260D910F7FFCDCBDD5A3E86009F9BBFD22`
 
-Loaded locally for the stage-effect renderer and the optional experimental note renderer.
+Loaded locally for the stage-effect renderer, the optional note renderer, and the internal full-scene PixiJS renderer.
 No CDN or network connection is required at runtime.

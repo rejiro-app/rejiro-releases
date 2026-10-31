@@ -7,7 +7,12 @@ Re:JIROの配布物には以下のライブラリ・素材を含みます。各�
 | Electron | 本体フォルダの `app/LICENSE.electron.txt` |
 | Chromiumとその依存ライブラリ | 本体フォルダの `app/LICENSES.chromium.html` |
 | PixiJS | [LICENSE](licenses/pixi-LICENSE.txt)、[NOTICE](licenses/pixi-NOTICE.md) |
+| regl（内部GPU描画バックエンド） | [MIT LICENSE](licenses/regl-LICENSE.txt) |
+| potpack（内部GPUテクスチャ配置） | [ISC LICENSE](licenses/potpack-LICENSE.txt) |
 | smol-toml | [LICENSE](licenses/smol-toml-LICENSE.txt) |
+| fflate（テーマパッケージ） | [MIT LICENSE](licenses/fflate-LICENSE.txt) |
+| TanStack Virtual Core（素材一覧の仮想表示） | [MIT LICENSE](licenses/tanstack-virtual-LICENSE.txt) |
+| fastdom（テーマスタジオのDOM処理） | [MIT LICENSE](licenses/fastdom-LICENSE.txt) |
 | SoundTouchJS | [LICENSE](licenses/soundtouch-LICENSE.txt)、[NOTICE](licenses/soundtouch-NOTICE.md) |
 | Lucideのテーマ編集用アイコン | [LICENSE](licenses/lucide-LICENSE.txt) |
 | Chart Reviewのアイコン | [LICENSE](licenses/chart-review-icon-LICENSE.txt) |
