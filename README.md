@@ -10,7 +10,7 @@
 
 [機能一覧・スクリーンショット](FEATURES.md) | [現在のパッチノート](PATCH-NOTES.md)
 
-v2.2は公開予定です。[公開予定の変更内容](https://github.com/rejiro-app/rejiro-releases/blob/main/changes-2.2.md)は、現在の正式版にはまだ含まれていません。
+v2.2の変更内容は[パッチノート](changes-2.2.md)をご確認ください。
 
 ## はじめ方
 

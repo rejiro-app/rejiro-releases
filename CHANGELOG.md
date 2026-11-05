@@ -6,6 +6,7 @@
 
 ## 目次
 
+- [Re:JIRO 2.1](#v2-1-0)
 - [Re:JIRO 2.0.1](#v2-0-1)
 - [Re:JIRO 2.0](#v2-0-0)
 - [Re:JIRO 1.9.4](#v1-9-4)
@@ -26,6 +27,14 @@
 - [Re:JIRO 1.3.1](#v1-3-1)
 - [Re:JIRO 1.3.0](#v1-3-0)
 - [1.2.1以前](#legacy-history)
+
+<a id="v2-1-0"></a>
+
+## Re:JIRO 2.1
+
+[パッチノート全文](changes-2.1.md) · [このバージョンの配布ページ](https://github.com/rejiro-app/rejiro-releases/releases/tag/v2.1.0)
+
+---
 
 <a id="v2-0-1"></a>
 
